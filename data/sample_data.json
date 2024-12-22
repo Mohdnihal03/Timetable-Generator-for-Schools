@@ -1,0 +1,45 @@
+{
+    "teacher_data": [
+      { "name": "John Smith", "subjects": ["Math", "Science"], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 5 },
+      { "name": "Jane Doe", "subjects": ["English", "History"], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 5 },
+      { "name": "Bob Johnson", "subjects": ["Science", "Math"], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 6 },
+      { "name": "Sarah Lee", "subjects": ["History", "English"], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 5 },
+      { "name": "Emily Davis", "subjects": ["PE", "Science"], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 6 },
+      { "name": "Michael Brown", "subjects": ["Computer Science", "Math"], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 5 },
+      { "name": "Laura Wilson", "subjects": ["Art", "English"], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 5 },
+      { "name": "Daniel Green", "subjects": ["Physics", "Chemistry"], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 6 },
+      { "name": "Olivia White", "subjects": ["Biology", "PE"], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 5 },
+      { "name": "Sophia Martin", "subjects": ["Math", "Computer Science"], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 5 }
+    ],
+    "class_data": [
+      { "name": "Class A", "size": 25, "subjects": ["Math", "English","Science"], "lab_subjects": ["Science Lab"], "weekly_subject_frequency": {"Math": 6, "English": 5, "Science Lab": 2,"Science":2} },
+      { "name": "Class B", "size": 30, "subjects": ["Science", "History","Biology"], "lab_subjects": ["Math Lab"], "weekly_subject_frequency": {"Science": 6, "History": 4, "Math Lab": 2} },
+      { "name": "Class C", "size": 28, "subjects": ["Math", "English", "Science"], "lab_subjects": ["English Lab", "History Lab"], "weekly_subject_frequency": {"Math": 5, "English": 5, "Science": 5} },
+      { "name": "Class D", "size": 32, "subjects": ["PE", "Art","Biology"], "lab_subjects": [], "weekly_subject_frequency": {"PE": 3, "Art": 3} },
+      { "name": "Class E", "size": 20, "subjects": ["Computer Science", "Math","Biology"], "lab_subjects": ["Computer Lab"], "weekly_subject_frequency": {"Computer Science": 6, "Math": 5, "Computer Lab": 3} },
+      { "name": "Class F", "size": 26, "subjects": ["Physics", "Chemistry","Biology"], "lab_subjects": ["Physics Lab", "Chemistry Lab"], "weekly_subject_frequency": {"Physics": 5, "Chemistry": 5, "Physics Lab": 2, "Chemistry Lab": 2} },
+      { "name": "Class G", "size": 24, "subjects": ["Biology", "History"], "lab_subjects": ["Biology Lab"], "weekly_subject_frequency": {"Biology": 4, "History": 4, "Biology Lab": 2} },
+      { "name": "Class H", "size": 22, "subjects": ["Math", "Art"], "lab_subjects": [], "weekly_subject_frequency": {"Math": 5, "Art": 3} }
+    ],
+    "classroom_data": [
+      { "name": "Room 101", "capacity": 30 },
+      { "name": "Room 102", "capacity": 25 },
+      { "name": "Room 103", "capacity": 35 },
+      { "name": "Room 104", "capacity": 27 },
+      { "name": "Room 105", "capacity": 20, "specialized_for": ["Computer Lab"] },
+      { "name": "Room 106", "capacity": 25, "specialized_for": ["Science Lab"] },
+      { "name": "Room 107", "capacity": 30, "specialized_for": ["Art"] },
+      { "name": "Room 108", "capacity": 28, "specialized_for": ["Physics Lab"] },
+      { "name": "Room 109", "capacity": 22, "specialized_for": ["Chemistry Lab"] },
+      { "name": "Room 110", "capacity": 24, "specialized_for": ["Biology Lab"] }
+    ],
+    "schedule_info": {
+      "start_time": "9:00 AM",
+      "class_duration": 50,
+      "snack_break": { "start": "10:50 AM", "end": "11:00 AM" },
+      "lunch_break": { "start": "1:00 PM", "end": "1:50 PM" },
+      "end_time": "4:30 PM",
+      "max_classes_per_day": 8
+    }
+  }
+  

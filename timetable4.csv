@@ -1,0 +1,337 @@
+Class,Day,Time Slot,Subject,Teacher,Classroom
+Class A,Monday,09:00 AM-09:50 AM,Math,John Smith,Room 101
+Class A,Monday,09:50 AM-10:40 AM,Math,John Smith,Room 101
+Class A,Monday,11:00 AM-11:50 AM,Math,John Smith,Room 101
+Class A,Monday,11:50 AM-12:40 PM,Math,John Smith,Room 101
+Class A,Monday,01:50 PM-02:40 PM,Math,John Smith,Room 101
+Class A,Monday,02:40 PM-03:30 PM,Math,Bob Johnson,Room 101
+Class A,Monday,03:30 PM-04:20 PM,English,Jane Doe,Room 101
+Class A,Tuesday,09:00 AM-09:50 AM,English,Jane Doe,Room 101
+Class A,Tuesday,09:50 AM-10:40 AM,English,Jane Doe,Room 101
+Class A,Tuesday,11:00 AM-11:50 AM,English,Jane Doe,Room 101
+Class A,Tuesday,11:50 AM-12:40 PM,English,Jane Doe,Room 101
+Class A,Tuesday,01:50 PM-02:40 PM,Science,John Smith,Room 101
+Class A,Tuesday,02:40 PM-03:30 PM,Science,John Smith,Room 101
+Class A,Tuesday,03:30 PM-04:20 PM,No Class,-,-
+Class A,Wednesday,09:00 AM-09:50 AM,No Class,-,-
+Class A,Wednesday,09:50 AM-10:40 AM,No Class,-,-
+Class A,Wednesday,11:00 AM-11:50 AM,No Class,-,-
+Class A,Wednesday,11:50 AM-12:40 PM,No Class,-,-
+Class A,Wednesday,01:50 PM-02:40 PM,No Class,-,-
+Class A,Wednesday,02:40 PM-03:30 PM,No Class,-,-
+Class A,Wednesday,03:30 PM-04:20 PM,No Class,-,-
+Class A,Thursday,09:00 AM-09:50 AM,No Class,-,-
+Class A,Thursday,09:50 AM-10:40 AM,No Class,-,-
+Class A,Thursday,11:00 AM-11:50 AM,No Class,-,-
+Class A,Thursday,11:50 AM-12:40 PM,No Class,-,-
+Class A,Thursday,01:50 PM-02:40 PM,No Class,-,-
+Class A,Thursday,02:40 PM-03:30 PM,No Class,-,-
+Class A,Thursday,03:30 PM-04:20 PM,No Class,-,-
+Class A,Friday,09:00 AM-09:50 AM,No Class,-,-
+Class A,Friday,09:50 AM-10:40 AM,No Class,-,-
+Class A,Friday,11:00 AM-11:50 AM,No Class,-,-
+Class A,Friday,11:50 AM-12:40 PM,No Class,-,-
+Class A,Friday,01:50 PM-02:40 PM,No Class,-,-
+Class A,Friday,02:40 PM-03:30 PM,No Class,-,-
+Class A,Friday,03:30 PM-04:20 PM,No Class,-,-
+Class A,Saturday,09:00 AM-09:50 AM,No Class,-,-
+Class A,Saturday,09:50 AM-10:40 AM,No Class,-,-
+Class A,Saturday,11:00 AM-11:50 AM,No Class,-,-
+Class A,Saturday,11:50 AM-12:40 PM,No Class,-,-
+Class A,Saturday,01:50 PM-02:40 PM,No Class,-,-
+Class A,Saturday,02:40 PM-03:30 PM,No Class,-,-
+Class A,Saturday,03:30 PM-04:20 PM,No Class,-,-
+Class B,Monday,09:00 AM-09:50 AM,Science,John Smith,Room 101
+Class B,Monday,09:50 AM-10:40 AM,Science,John Smith,Room 101
+Class B,Monday,11:00 AM-11:50 AM,Science,John Smith,Room 101
+Class B,Monday,11:50 AM-12:40 PM,Science,John Smith,Room 101
+Class B,Monday,01:50 PM-02:40 PM,Science,John Smith,Room 101
+Class B,Monday,02:40 PM-03:30 PM,Science,Bob Johnson,Room 101
+Class B,Monday,03:30 PM-04:20 PM,History,Jane Doe,Room 101
+Class B,Tuesday,09:00 AM-09:50 AM,History,Jane Doe,Room 101
+Class B,Tuesday,09:50 AM-10:40 AM,History,Jane Doe,Room 101
+Class B,Tuesday,11:00 AM-11:50 AM,History,Jane Doe,Room 101
+Class B,Tuesday,11:50 AM-12:40 PM,No Class,-,-
+Class B,Tuesday,01:50 PM-02:40 PM,No Class,-,-
+Class B,Tuesday,02:40 PM-03:30 PM,No Class,-,-
+Class B,Tuesday,03:30 PM-04:20 PM,No Class,-,-
+Class B,Wednesday,09:00 AM-09:50 AM,No Class,-,-
+Class B,Wednesday,09:50 AM-10:40 AM,No Class,-,-
+Class B,Wednesday,11:00 AM-11:50 AM,No Class,-,-
+Class B,Wednesday,11:50 AM-12:40 PM,No Class,-,-
+Class B,Wednesday,01:50 PM-02:40 PM,No Class,-,-
+Class B,Wednesday,02:40 PM-03:30 PM,No Class,-,-
+Class B,Wednesday,03:30 PM-04:20 PM,No Class,-,-
+Class B,Thursday,09:00 AM-09:50 AM,No Class,-,-
+Class B,Thursday,09:50 AM-10:40 AM,No Class,-,-
+Class B,Thursday,11:00 AM-11:50 AM,No Class,-,-
+Class B,Thursday,11:50 AM-12:40 PM,No Class,-,-
+Class B,Thursday,01:50 PM-02:40 PM,No Class,-,-
+Class B,Thursday,02:40 PM-03:30 PM,No Class,-,-
+Class B,Thursday,03:30 PM-04:20 PM,No Class,-,-
+Class B,Friday,09:00 AM-09:50 AM,No Class,-,-
+Class B,Friday,09:50 AM-10:40 AM,No Class,-,-
+Class B,Friday,11:00 AM-11:50 AM,No Class,-,-
+Class B,Friday,11:50 AM-12:40 PM,No Class,-,-
+Class B,Friday,01:50 PM-02:40 PM,No Class,-,-
+Class B,Friday,02:40 PM-03:30 PM,No Class,-,-
+Class B,Friday,03:30 PM-04:20 PM,No Class,-,-
+Class B,Saturday,09:00 AM-09:50 AM,No Class,-,-
+Class B,Saturday,09:50 AM-10:40 AM,No Class,-,-
+Class B,Saturday,11:00 AM-11:50 AM,No Class,-,-
+Class B,Saturday,11:50 AM-12:40 PM,No Class,-,-
+Class B,Saturday,01:50 PM-02:40 PM,No Class,-,-
+Class B,Saturday,02:40 PM-03:30 PM,No Class,-,-
+Class B,Saturday,03:30 PM-04:20 PM,No Class,-,-
+Class C,Monday,09:00 AM-09:50 AM,Math,John Smith,Room 101
+Class C,Monday,09:50 AM-10:40 AM,Math,John Smith,Room 101
+Class C,Monday,11:00 AM-11:50 AM,Math,John Smith,Room 101
+Class C,Monday,11:50 AM-12:40 PM,Math,John Smith,Room 101
+Class C,Monday,01:50 PM-02:40 PM,Math,John Smith,Room 101
+Class C,Monday,02:40 PM-03:30 PM,English,Jane Doe,Room 101
+Class C,Monday,03:30 PM-04:20 PM,English,Jane Doe,Room 101
+Class C,Tuesday,09:00 AM-09:50 AM,English,Jane Doe,Room 101
+Class C,Tuesday,09:50 AM-10:40 AM,English,Jane Doe,Room 101
+Class C,Tuesday,11:00 AM-11:50 AM,English,Jane Doe,Room 101
+Class C,Tuesday,11:50 AM-12:40 PM,Science,John Smith,Room 101
+Class C,Tuesday,01:50 PM-02:40 PM,Science,John Smith,Room 101
+Class C,Tuesday,02:40 PM-03:30 PM,Science,John Smith,Room 101
+Class C,Tuesday,03:30 PM-04:20 PM,Science,John Smith,Room 101
+Class C,Wednesday,09:00 AM-09:50 AM,Science,John Smith,Room 101
+Class C,Wednesday,09:50 AM-10:40 AM,No Class,-,-
+Class C,Wednesday,11:00 AM-11:50 AM,No Class,-,-
+Class C,Wednesday,11:50 AM-12:40 PM,No Class,-,-
+Class C,Wednesday,01:50 PM-02:40 PM,No Class,-,-
+Class C,Wednesday,02:40 PM-03:30 PM,No Class,-,-
+Class C,Wednesday,03:30 PM-04:20 PM,No Class,-,-
+Class C,Thursday,09:00 AM-09:50 AM,No Class,-,-
+Class C,Thursday,09:50 AM-10:40 AM,No Class,-,-
+Class C,Thursday,11:00 AM-11:50 AM,No Class,-,-
+Class C,Thursday,11:50 AM-12:40 PM,No Class,-,-
+Class C,Thursday,01:50 PM-02:40 PM,No Class,-,-
+Class C,Thursday,02:40 PM-03:30 PM,No Class,-,-
+Class C,Thursday,03:30 PM-04:20 PM,No Class,-,-
+Class C,Friday,09:00 AM-09:50 AM,No Class,-,-
+Class C,Friday,09:50 AM-10:40 AM,No Class,-,-
+Class C,Friday,11:00 AM-11:50 AM,No Class,-,-
+Class C,Friday,11:50 AM-12:40 PM,No Class,-,-
+Class C,Friday,01:50 PM-02:40 PM,No Class,-,-
+Class C,Friday,02:40 PM-03:30 PM,No Class,-,-
+Class C,Friday,03:30 PM-04:20 PM,No Class,-,-
+Class C,Saturday,09:00 AM-09:50 AM,No Class,-,-
+Class C,Saturday,09:50 AM-10:40 AM,No Class,-,-
+Class C,Saturday,11:00 AM-11:50 AM,No Class,-,-
+Class C,Saturday,11:50 AM-12:40 PM,No Class,-,-
+Class C,Saturday,01:50 PM-02:40 PM,No Class,-,-
+Class C,Saturday,02:40 PM-03:30 PM,No Class,-,-
+Class C,Saturday,03:30 PM-04:20 PM,No Class,-,-
+Class D,Monday,09:00 AM-09:50 AM,PE,Emily Davis,Room 103
+Class D,Monday,09:50 AM-10:40 AM,PE,Emily Davis,Room 103
+Class D,Monday,11:00 AM-11:50 AM,PE,Emily Davis,Room 103
+Class D,Monday,11:50 AM-12:40 PM,Art,Laura Wilson,Room 103
+Class D,Monday,01:50 PM-02:40 PM,Art,Laura Wilson,Room 103
+Class D,Monday,02:40 PM-03:30 PM,Art,Laura Wilson,Room 103
+Class D,Monday,03:30 PM-04:20 PM,No Class,-,-
+Class D,Tuesday,09:00 AM-09:50 AM,No Class,-,-
+Class D,Tuesday,09:50 AM-10:40 AM,No Class,-,-
+Class D,Tuesday,11:00 AM-11:50 AM,No Class,-,-
+Class D,Tuesday,11:50 AM-12:40 PM,No Class,-,-
+Class D,Tuesday,01:50 PM-02:40 PM,No Class,-,-
+Class D,Tuesday,02:40 PM-03:30 PM,No Class,-,-
+Class D,Tuesday,03:30 PM-04:20 PM,No Class,-,-
+Class D,Wednesday,09:00 AM-09:50 AM,No Class,-,-
+Class D,Wednesday,09:50 AM-10:40 AM,No Class,-,-
+Class D,Wednesday,11:00 AM-11:50 AM,No Class,-,-
+Class D,Wednesday,11:50 AM-12:40 PM,No Class,-,-
+Class D,Wednesday,01:50 PM-02:40 PM,No Class,-,-
+Class D,Wednesday,02:40 PM-03:30 PM,No Class,-,-
+Class D,Wednesday,03:30 PM-04:20 PM,No Class,-,-
+Class D,Thursday,09:00 AM-09:50 AM,No Class,-,-
+Class D,Thursday,09:50 AM-10:40 AM,No Class,-,-
+Class D,Thursday,11:00 AM-11:50 AM,No Class,-,-
+Class D,Thursday,11:50 AM-12:40 PM,No Class,-,-
+Class D,Thursday,01:50 PM-02:40 PM,No Class,-,-
+Class D,Thursday,02:40 PM-03:30 PM,No Class,-,-
+Class D,Thursday,03:30 PM-04:20 PM,No Class,-,-
+Class D,Friday,09:00 AM-09:50 AM,No Class,-,-
+Class D,Friday,09:50 AM-10:40 AM,No Class,-,-
+Class D,Friday,11:00 AM-11:50 AM,No Class,-,-
+Class D,Friday,11:50 AM-12:40 PM,No Class,-,-
+Class D,Friday,01:50 PM-02:40 PM,No Class,-,-
+Class D,Friday,02:40 PM-03:30 PM,No Class,-,-
+Class D,Friday,03:30 PM-04:20 PM,No Class,-,-
+Class D,Saturday,09:00 AM-09:50 AM,No Class,-,-
+Class D,Saturday,09:50 AM-10:40 AM,No Class,-,-
+Class D,Saturday,11:00 AM-11:50 AM,No Class,-,-
+Class D,Saturday,11:50 AM-12:40 PM,No Class,-,-
+Class D,Saturday,01:50 PM-02:40 PM,No Class,-,-
+Class D,Saturday,02:40 PM-03:30 PM,No Class,-,-
+Class D,Saturday,03:30 PM-04:20 PM,No Class,-,-
+Class E,Monday,09:00 AM-09:50 AM,Computer Science,Michael Brown,Room 101
+Class E,Monday,09:50 AM-10:40 AM,Computer Science,Michael Brown,Room 101
+Class E,Monday,11:00 AM-11:50 AM,Computer Science,Michael Brown,Room 101
+Class E,Monday,11:50 AM-12:40 PM,Computer Science,Michael Brown,Room 101
+Class E,Monday,01:50 PM-02:40 PM,Computer Science,Michael Brown,Room 101
+Class E,Monday,02:40 PM-03:30 PM,Computer Science,Sophia Martin,Room 101
+Class E,Monday,03:30 PM-04:20 PM,Math,John Smith,Room 101
+Class E,Tuesday,09:00 AM-09:50 AM,Math,John Smith,Room 101
+Class E,Tuesday,09:50 AM-10:40 AM,Math,John Smith,Room 101
+Class E,Tuesday,11:00 AM-11:50 AM,Math,John Smith,Room 101
+Class E,Tuesday,11:50 AM-12:40 PM,Math,John Smith,Room 101
+Class E,Tuesday,01:50 PM-02:40 PM,No Class,-,-
+Class E,Tuesday,02:40 PM-03:30 PM,No Class,-,-
+Class E,Tuesday,03:30 PM-04:20 PM,No Class,-,-
+Class E,Wednesday,09:00 AM-09:50 AM,No Class,-,-
+Class E,Wednesday,09:50 AM-10:40 AM,No Class,-,-
+Class E,Wednesday,11:00 AM-11:50 AM,No Class,-,-
+Class E,Wednesday,11:50 AM-12:40 PM,No Class,-,-
+Class E,Wednesday,01:50 PM-02:40 PM,No Class,-,-
+Class E,Wednesday,02:40 PM-03:30 PM,No Class,-,-
+Class E,Wednesday,03:30 PM-04:20 PM,No Class,-,-
+Class E,Thursday,09:00 AM-09:50 AM,No Class,-,-
+Class E,Thursday,09:50 AM-10:40 AM,No Class,-,-
+Class E,Thursday,11:00 AM-11:50 AM,No Class,-,-
+Class E,Thursday,11:50 AM-12:40 PM,No Class,-,-
+Class E,Thursday,01:50 PM-02:40 PM,No Class,-,-
+Class E,Thursday,02:40 PM-03:30 PM,No Class,-,-
+Class E,Thursday,03:30 PM-04:20 PM,No Class,-,-
+Class E,Friday,09:00 AM-09:50 AM,No Class,-,-
+Class E,Friday,09:50 AM-10:40 AM,No Class,-,-
+Class E,Friday,11:00 AM-11:50 AM,No Class,-,-
+Class E,Friday,11:50 AM-12:40 PM,No Class,-,-
+Class E,Friday,01:50 PM-02:40 PM,No Class,-,-
+Class E,Friday,02:40 PM-03:30 PM,No Class,-,-
+Class E,Friday,03:30 PM-04:20 PM,No Class,-,-
+Class E,Saturday,09:00 AM-09:50 AM,No Class,-,-
+Class E,Saturday,09:50 AM-10:40 AM,No Class,-,-
+Class E,Saturday,11:00 AM-11:50 AM,No Class,-,-
+Class E,Saturday,11:50 AM-12:40 PM,No Class,-,-
+Class E,Saturday,01:50 PM-02:40 PM,No Class,-,-
+Class E,Saturday,02:40 PM-03:30 PM,No Class,-,-
+Class E,Saturday,03:30 PM-04:20 PM,No Class,-,-
+Class F,Monday,09:00 AM-09:50 AM,Physics,Daniel Green,Room 101
+Class F,Monday,09:50 AM-10:40 AM,Physics,Daniel Green,Room 101
+Class F,Monday,11:00 AM-11:50 AM,Physics,Daniel Green,Room 101
+Class F,Monday,11:50 AM-12:40 PM,Physics,Daniel Green,Room 101
+Class F,Monday,01:50 PM-02:40 PM,Physics,Daniel Green,Room 101
+Class F,Monday,02:40 PM-03:30 PM,Chemistry,Daniel Green,Room 101
+Class F,Monday,03:30 PM-04:20 PM,No Class,-,-
+Class F,Tuesday,09:00 AM-09:50 AM,Chemistry,Daniel Green,Room 101
+Class F,Tuesday,09:50 AM-10:40 AM,Chemistry,Daniel Green,Room 101
+Class F,Tuesday,11:00 AM-11:50 AM,Chemistry,Daniel Green,Room 101
+Class F,Tuesday,11:50 AM-12:40 PM,Chemistry,Daniel Green,Room 101
+Class F,Tuesday,01:50 PM-02:40 PM,No Class,-,-
+Class F,Tuesday,02:40 PM-03:30 PM,No Class,-,-
+Class F,Tuesday,03:30 PM-04:20 PM,No Class,-,-
+Class F,Wednesday,09:00 AM-09:50 AM,No Class,-,-
+Class F,Wednesday,09:50 AM-10:40 AM,No Class,-,-
+Class F,Wednesday,11:00 AM-11:50 AM,No Class,-,-
+Class F,Wednesday,11:50 AM-12:40 PM,No Class,-,-
+Class F,Wednesday,01:50 PM-02:40 PM,No Class,-,-
+Class F,Wednesday,02:40 PM-03:30 PM,No Class,-,-
+Class F,Wednesday,03:30 PM-04:20 PM,No Class,-,-
+Class F,Thursday,09:00 AM-09:50 AM,No Class,-,-
+Class F,Thursday,09:50 AM-10:40 AM,No Class,-,-
+Class F,Thursday,11:00 AM-11:50 AM,No Class,-,-
+Class F,Thursday,11:50 AM-12:40 PM,No Class,-,-
+Class F,Thursday,01:50 PM-02:40 PM,No Class,-,-
+Class F,Thursday,02:40 PM-03:30 PM,No Class,-,-
+Class F,Thursday,03:30 PM-04:20 PM,No Class,-,-
+Class F,Friday,09:00 AM-09:50 AM,No Class,-,-
+Class F,Friday,09:50 AM-10:40 AM,No Class,-,-
+Class F,Friday,11:00 AM-11:50 AM,No Class,-,-
+Class F,Friday,11:50 AM-12:40 PM,No Class,-,-
+Class F,Friday,01:50 PM-02:40 PM,No Class,-,-
+Class F,Friday,02:40 PM-03:30 PM,No Class,-,-
+Class F,Friday,03:30 PM-04:20 PM,No Class,-,-
+Class F,Saturday,09:00 AM-09:50 AM,No Class,-,-
+Class F,Saturday,09:50 AM-10:40 AM,No Class,-,-
+Class F,Saturday,11:00 AM-11:50 AM,No Class,-,-
+Class F,Saturday,11:50 AM-12:40 PM,No Class,-,-
+Class F,Saturday,01:50 PM-02:40 PM,No Class,-,-
+Class F,Saturday,02:40 PM-03:30 PM,No Class,-,-
+Class F,Saturday,03:30 PM-04:20 PM,No Class,-,-
+Class G,Monday,09:00 AM-09:50 AM,Biology,Olivia White,Room 101
+Class G,Monday,09:50 AM-10:40 AM,Biology,Olivia White,Room 101
+Class G,Monday,11:00 AM-11:50 AM,Biology,Olivia White,Room 101
+Class G,Monday,11:50 AM-12:40 PM,Biology,Olivia White,Room 101
+Class G,Monday,01:50 PM-02:40 PM,History,Jane Doe,Room 101
+Class G,Monday,02:40 PM-03:30 PM,History,Jane Doe,Room 101
+Class G,Monday,03:30 PM-04:20 PM,History,Jane Doe,Room 101
+Class G,Tuesday,09:00 AM-09:50 AM,History,Jane Doe,Room 101
+Class G,Tuesday,09:50 AM-10:40 AM,No Class,-,-
+Class G,Tuesday,11:00 AM-11:50 AM,No Class,-,-
+Class G,Tuesday,11:50 AM-12:40 PM,No Class,-,-
+Class G,Tuesday,01:50 PM-02:40 PM,No Class,-,-
+Class G,Tuesday,02:40 PM-03:30 PM,No Class,-,-
+Class G,Tuesday,03:30 PM-04:20 PM,No Class,-,-
+Class G,Wednesday,09:00 AM-09:50 AM,No Class,-,-
+Class G,Wednesday,09:50 AM-10:40 AM,No Class,-,-
+Class G,Wednesday,11:00 AM-11:50 AM,No Class,-,-
+Class G,Wednesday,11:50 AM-12:40 PM,No Class,-,-
+Class G,Wednesday,01:50 PM-02:40 PM,No Class,-,-
+Class G,Wednesday,02:40 PM-03:30 PM,No Class,-,-
+Class G,Wednesday,03:30 PM-04:20 PM,No Class,-,-
+Class G,Thursday,09:00 AM-09:50 AM,No Class,-,-
+Class G,Thursday,09:50 AM-10:40 AM,No Class,-,-
+Class G,Thursday,11:00 AM-11:50 AM,No Class,-,-
+Class G,Thursday,11:50 AM-12:40 PM,No Class,-,-
+Class G,Thursday,01:50 PM-02:40 PM,No Class,-,-
+Class G,Thursday,02:40 PM-03:30 PM,No Class,-,-
+Class G,Thursday,03:30 PM-04:20 PM,No Class,-,-
+Class G,Friday,09:00 AM-09:50 AM,No Class,-,-
+Class G,Friday,09:50 AM-10:40 AM,No Class,-,-
+Class G,Friday,11:00 AM-11:50 AM,No Class,-,-
+Class G,Friday,11:50 AM-12:40 PM,No Class,-,-
+Class G,Friday,01:50 PM-02:40 PM,No Class,-,-
+Class G,Friday,02:40 PM-03:30 PM,No Class,-,-
+Class G,Friday,03:30 PM-04:20 PM,No Class,-,-
+Class G,Saturday,09:00 AM-09:50 AM,No Class,-,-
+Class G,Saturday,09:50 AM-10:40 AM,No Class,-,-
+Class G,Saturday,11:00 AM-11:50 AM,No Class,-,-
+Class G,Saturday,11:50 AM-12:40 PM,No Class,-,-
+Class G,Saturday,01:50 PM-02:40 PM,No Class,-,-
+Class G,Saturday,02:40 PM-03:30 PM,No Class,-,-
+Class G,Saturday,03:30 PM-04:20 PM,No Class,-,-
+Class H,Monday,09:00 AM-09:50 AM,Math,John Smith,Room 101
+Class H,Monday,09:50 AM-10:40 AM,Math,John Smith,Room 101
+Class H,Monday,11:00 AM-11:50 AM,Math,John Smith,Room 101
+Class H,Monday,11:50 AM-12:40 PM,Math,John Smith,Room 101
+Class H,Monday,01:50 PM-02:40 PM,Math,John Smith,Room 101
+Class H,Monday,02:40 PM-03:30 PM,Art,Laura Wilson,Room 101
+Class H,Monday,03:30 PM-04:20 PM,Art,Laura Wilson,Room 101
+Class H,Tuesday,09:00 AM-09:50 AM,Art,Laura Wilson,Room 101
+Class H,Tuesday,09:50 AM-10:40 AM,No Class,-,-
+Class H,Tuesday,11:00 AM-11:50 AM,No Class,-,-
+Class H,Tuesday,11:50 AM-12:40 PM,No Class,-,-
+Class H,Tuesday,01:50 PM-02:40 PM,No Class,-,-
+Class H,Tuesday,02:40 PM-03:30 PM,No Class,-,-
+Class H,Tuesday,03:30 PM-04:20 PM,No Class,-,-
+Class H,Wednesday,09:00 AM-09:50 AM,No Class,-,-
+Class H,Wednesday,09:50 AM-10:40 AM,No Class,-,-
+Class H,Wednesday,11:00 AM-11:50 AM,No Class,-,-
+Class H,Wednesday,11:50 AM-12:40 PM,No Class,-,-
+Class H,Wednesday,01:50 PM-02:40 PM,No Class,-,-
+Class H,Wednesday,02:40 PM-03:30 PM,No Class,-,-
+Class H,Wednesday,03:30 PM-04:20 PM,No Class,-,-
+Class H,Thursday,09:00 AM-09:50 AM,No Class,-,-
+Class H,Thursday,09:50 AM-10:40 AM,No Class,-,-
+Class H,Thursday,11:00 AM-11:50 AM,No Class,-,-
+Class H,Thursday,11:50 AM-12:40 PM,No Class,-,-
+Class H,Thursday,01:50 PM-02:40 PM,No Class,-,-
+Class H,Thursday,02:40 PM-03:30 PM,No Class,-,-
+Class H,Thursday,03:30 PM-04:20 PM,No Class,-,-
+Class H,Friday,09:00 AM-09:50 AM,No Class,-,-
+Class H,Friday,09:50 AM-10:40 AM,No Class,-,-
+Class H,Friday,11:00 AM-11:50 AM,No Class,-,-
+Class H,Friday,11:50 AM-12:40 PM,No Class,-,-
+Class H,Friday,01:50 PM-02:40 PM,No Class,-,-
+Class H,Friday,02:40 PM-03:30 PM,No Class,-,-
+Class H,Friday,03:30 PM-04:20 PM,No Class,-,-
+Class H,Saturday,09:00 AM-09:50 AM,No Class,-,-
+Class H,Saturday,09:50 AM-10:40 AM,No Class,-,-
+Class H,Saturday,11:00 AM-11:50 AM,No Class,-,-
+Class H,Saturday,11:50 AM-12:40 PM,No Class,-,-
+Class H,Saturday,01:50 PM-02:40 PM,No Class,-,-
+Class H,Saturday,02:40 PM-03:30 PM,No Class,-,-
+Class H,Saturday,03:30 PM-04:20 PM,No Class,-,-

@@ -1,0 +1,48 @@
+{
+    "teacher_data": [
+      { "name": "John Smith", "subjects": ["Math", "Science", "Geography"], "lab_subjects": ["Science Lab"], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 5, "experience_level": "Advanced" },
+      { "name": "Jane Doe", "subjects": ["English", "History", "Geography"], "lab_subjects": ["English Lab"], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 5, "experience_level": "Intermediate" },
+      { "name": "Bob Johnson", "subjects": ["Biology", "Chemistry", "Physics"], "lab_subjects": ["Biology Lab", "Chemistry Lab", "Physics Lab"], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 6, "experience_level": "Expert" },
+      { "name": "Sarah Lee", "subjects": ["Art", "History", "Music"], "lab_subjects": [], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 5, "experience_level": "Intermediate" },
+      { "name": "Emily Davis", "subjects": ["PE", "Science", "Music"], "lab_subjects": ["PE Lab", "Science Lab"], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 6, "experience_level": "Advanced" },
+      { "name": "Michael Brown", "subjects": ["Computer Science", "Physics", "Math"], "lab_subjects": ["Computer Lab", "Physics Lab"], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 5, "experience_level": "Expert" },
+      { "name": "Laura Wilson", "subjects": ["Art", "English"], "lab_subjects": ["Art Lab"], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 5, "experience_level": "Intermediate" },
+      { "name": "Daniel Green", "subjects": ["Physics", "Chemistry", "Mathematics"], "lab_subjects": ["Physics Lab", "Chemistry Lab"], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 6, "experience_level": "Expert" },
+      { "name": "Olivia White", "subjects": ["Biology", "PE"], "lab_subjects": ["PE Lab", "Biology Lab"], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 5, "experience_level": "Intermediate" },
+      { "name": "Sophia Martin", "subjects": ["Math", "Computer Science", "Mathematics"], "lab_subjects": ["Math Lab", "Computer Lab"], "availability": ["Mon-Sat 9-4:30"], "max_hours_per_day": 5, "experience_level": "Advanced" }
+    ],
+    "class_data": [
+    { "name": "Class A", "size": 25, "subjects": ["Math", "English", "Art", "Geography", "Music"], "lab_subjects": ["Art Lab"], "teacher_assignments": { "Math": "Sophia Martin", "English": "Jane Doe", "Art": "Sarah Lee", "Geography": "Sarah Lee", "Music": "Emily Davis" }, "weekly_subject_frequency": { "Math": 6, "English": 5, "Art Lab": 2, "Geography": 3, "Music": 3 } },
+    { "name": "Class B", "size": 30, "subjects": ["Physics", "Chemistry", "Biology", "Computer Science", "PE"], "lab_subjects": ["Physics Lab"], "teacher_assignments": { "Physics": "Michael Brown", "Chemistry": "Daniel Green", "Biology": "Bob Johnson", "Computer Science": "Sophia Martin", "PE": "Olivia White" }, "weekly_subject_frequency": { "Physics": 6, "Chemistry": 5, "PE": 3, "Computer Science": 4, "Biology": 3 } },
+    { "name": "Class C", "size": 28, "subjects": ["History", "Economics", "Literature", "Political Science", "Sociology"], "lab_subjects": [], "teacher_assignments": { "History": "Jane Doe", "Economics": "Sarah Lee", "Literature": "Laura Wilson", "Political Science": "Laura Wilson", "Sociology": "Emily Davis" }, "weekly_subject_frequency": { "History": 6, "Economics": 5, "Literature": 4, "Political Science": 3, "Sociology": 3 } },
+    { "name": "Class D", "size": 32, "subjects": ["French", "Spanish", "History", "Math", "PE"], "lab_subjects": [], "teacher_assignments": { "French": "Olivia White", "Spanish": "Sophia Martin", "History": "Jane Doe", "Math": "Sophia Martin", "PE": "Emily Davis" }, "weekly_subject_frequency": { "French": 4, "Spanish": 3, "History": 5, "Math": 4, "PE": 3 } },
+    { "name": "Class E", "size": 20, "subjects": ["Biology", "Chemistry", "Physics", "Psychology", "Mathematics"], "lab_subjects": ["Biology Lab"], "teacher_assignments": { "Biology": "Bob Johnson", "Chemistry": "Daniel Green", "Physics": "Michael Brown", "Psychology": "Emily Davis", "Mathematics": "Sophia Martin" }, "weekly_subject_frequency": { "Biology": 6, "Chemistry": 4, "Physics": 5, "Psychology": 3, "Mathematics": 4 } },
+    { "name": "Class F", "size": 26, "subjects": ["Computer Science", "Physics", "Literature", "Sociology", "Mathematics"], "lab_subjects": ["Computer Lab"], "teacher_assignments": { "Computer Science": "Sophia Martin", "Physics": "Michael Brown", "Literature": "Laura Wilson", "Sociology": "Emily Davis", "Mathematics": "Sophia Martin" }, "weekly_subject_frequency": { "Computer Science": 5, "Physics": 5, "Literature": 4, "Sociology": 3, "Mathematics": 3 } },
+    { "name": "Class G", "size": 24, "subjects": ["Math", "Geography", "Political Science", "Art", "English"], "lab_subjects": ["Art Lab"], "teacher_assignments": { "Math": "Sophia Martin", "Geography": "Sarah Lee", "Political Science": "Laura Wilson", "Art": "Sarah Lee", "English": "Jane Doe" }, "weekly_subject_frequency": { "Math": 6, "Geography": 3, "Political Science": 4, "Art Lab": 2, "English": 3 } },
+    { "name": "Class H", "size": 22, "subjects": ["Physics", "Chemistry", "History", "Music", "PE"], "lab_subjects": ["Chemistry Lab"], "teacher_assignments": { "Physics": "Michael Brown", "Chemistry": "Daniel Green", "History": "Jane Doe", "Music": "Emily Davis", "PE": "Olivia White" }, "weekly_subject_frequency": { "Physics": 5, "Chemistry": 5, "History": 3, "Music": 3, "PE": 2 } }
+  ],
+  "classroom_data": [
+    { "name": "Room 101", "capacity": 30 },
+    { "name": "Room 102", "capacity": 25 },
+    { "name": "Room 103", "capacity": 35 },
+    { "name": "Room 104", "capacity": 27 },
+    { "name": "Room 105", "capacity": 20, "specialized_for": ["Computer Lab"] },
+    { "name": "Room 106", "capacity": 25, "specialized_for": ["Art Lab"] },
+    { "name": "Room 107", "capacity": 30, "specialized_for": ["Physics Lab"] },
+    { "name": "Room 108", "capacity": 28, "specialized_for": ["Biology Lab"] },
+    { "name": "Room 109", "capacity": 22, "specialized_for": ["Chemistry Lab"] },
+    { "name": "Room 110", "capacity": 24, "specialized_for": ["Music Lab"] }
+  ],
+
+  "schedule_info": {
+    "start_time": "9:00 AM",
+    "class_duration": 50,
+    "snack_break": { "start": "10:50 AM", "end": "11:00 AM" },
+    "lunch_break": { "start": "1:00 PM", "end": "1:50 PM" },
+    "end_time": "4:30 PM",
+    "max_classes_per_day": 8,
+    "holidays": ["2024-12-25", "2024-01-01"],
+    "working_days": ["Mon", "Tue", "Wed", "Thu", "Fri"]
+  }
+  }
+  
